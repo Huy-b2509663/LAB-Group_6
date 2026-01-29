@@ -26,7 +26,7 @@ Repo này chứa:
 
 - Git & GitHub  
 - Visual Studio Code / Notepad++
-- [Canva AI]([https://www.canva.com/ai-tools/](https://www.canva.com/ai-assistant/?msockid=3d84cfe771df623e3e64d9d170b963c0))  
+- [Canva AI](https://www.canva.com/ai-assistant/?msockid=3d84cfe771df623e3e64d9d170b963c0)
 - Các phần mềm hỗ trợ bài thực hành
 ## 📜 License
 -  Infographic và nội dung trong infographic được tạo bằng Canva.  
