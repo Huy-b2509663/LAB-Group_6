@@ -17,7 +17,8 @@ Repo này chứa:
 
 - 🔹 LAB 1 
 - 🔹 LAB 2 
-- 🔹 LAB 3 
+- 🔹 LAB 3
+- 🔹 LAB N
 - 🔹 Hình ảnh, tài liệu, báo cáo liên quan  
 - 🔹 Các file cần nộp theo yêu cầu môn học  
 
