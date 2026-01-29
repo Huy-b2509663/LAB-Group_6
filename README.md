@@ -27,6 +27,6 @@ Repo này chứa:
 
 - Git & GitHub  
 - Visual Studio Code / Notepad++  
-- Các phần mềm hỗ trợ bài thí nghiệm  
+- Các phần mềm hỗ trợ bài thực hành
 
 git clone https://github.com/Kiyo-1427/LAB-Group_6.git
