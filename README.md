@@ -1,4 +1,4 @@
-🔬 LAB-Group-6
+## 🔬 LAB-Group-6
 
 
 👥 Thành viên nhóm
@@ -29,6 +29,7 @@ Repo này chứa:
 - [Canva AI](https://www.canva.com/ai-tools/)  
 - Các phần mềm hỗ trợ bài thực hành
 ## 📜 License
-Infographic và nội dung trong infographic được tạo bằng Canva. Phát hành theo giấy phép [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+-  Infographic và nội dung trong infographic được tạo bằng Canva.  
+Phát hành theo giấy phép [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-git clone https://github.com/Kiyo-1427/LAB-Group_6.git
+- git clone https://github.com/Kiyo-1427/LAB-Group_6.git
